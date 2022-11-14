@@ -22,7 +22,7 @@ base = rpackages.importr('base')
 ibelief = rpackages.importr('ibelief')
 
 # create masses from 
-Mass=ibelief.RandomMass(nbFocalElement=num_fp_per_mf, ThetaSize=theta_size, nbMass=num_mf, Type=1)
+Mass=ibelief.RandomMass(nbFocalElement=num_fp_per_mf, ThetaSize=theta_size, nbMass=num_mf, Type=2)
 
 #______combinations rule____________________________________________________________________________
 
