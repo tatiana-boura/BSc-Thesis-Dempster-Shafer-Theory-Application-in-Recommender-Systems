@@ -1,4 +1,4 @@
-# BSc Thesis
+# Dempster-Shafer Τheory Application in Recommender Systems and Comparison of Constraint Programming’s and Möbius Transform’s Implementation
 In this repository you can find my Thesis for my Diploma (BSc) in Informatics and Telecommunications, from the National Kapodistrian University of Athens (https://pergamos.lib.uoa.gr/uoa/dl/frontend/el/browse/3228581).
 The title of the thesis is "*Dempster-Shafer Τheory Application in Recommender Systems and Comparison of Constraint Programming’s and Möbius Transform’s Implementation*".
 
